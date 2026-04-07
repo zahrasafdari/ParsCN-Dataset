@@ -126,11 +126,11 @@ Open `baseline-eval.ipynb` in Jupyter or Google Colab. The notebook is self-cont
 If you use ParsCN in your research, please cite:
 
 ```bibtex
-@inproceedings{safdari2026parscn,
-  title     = {{ParsCN}: A Persian Dataset for Counter-Narrative Generation to Combat Online Hate Speech},
-  author    = {Safdari Fesaghandis, Zahra and Maity, Suman Kalyan},
-  booktitle = {Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)},
-  year      = {2026}
+@article{fesaghandis2026parscn,
+  title={ParsCN: A Persian Dataset for Counter-Narrative Generation to Combat Online Hate Speech},
+  author={Fesaghandis, Zahra Safdari and Maity, Suman Kalyan},
+  journal={arXiv preprint arXiv:2603.27011},
+  year={2026}
 }
 ```
 
