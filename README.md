@@ -146,9 +146,6 @@ The **dataset** and **code** are released under the [Creative Commons Attributio
 
 - **Zahra Safdari Fesaghandis** — Bilkent University, Ankara, Turkey · zahra.safdari@bilkent.edu.tr
 - **Suman Kalyan Maity** — Missouri University of Science and Technology, Rolla, MO, USA · smaity@mst.edu
-
-For questions about the dataset or code, please open a [GitHub Issue](https://github.com/zahrasafdari/ParsCN/issues).
-
 ---
 
 ## Acknowledgements
